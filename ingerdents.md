@@ -1,0 +1,4 @@
+Egg
+bread
+pepper
+salts
